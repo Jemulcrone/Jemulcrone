@@ -2,7 +2,7 @@
 
 
 - ✨ My name is Jess
-- 📈 I mainly use GitHub to organize my data analytics and GIS project [portfolio]() 
+- 📈 I mainly use GitHub to organize my data analytics and GIS project [portfolio](https://github.com/Jemulcrone/data-and-gis-analyst-portfolio) 
 - 👀 Here are links to my XXpersonal websiteXX and XXArcGIS story map resumeXX 
 - 🔭 I’m currently working on a geographically weighted regression analysis of CO2 and N2O emissions
 - 🌱 I’m currently learning web scraping and machine learning!
