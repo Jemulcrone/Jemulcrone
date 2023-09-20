@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning web scraping and machine learning!
 - 📫 How to reach me: Jemulcrone@gmail.com 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: [I love reading](https://www.goodreads.com/user/show/42439345-jessica-mulcrone), especially non-fiction and thrillers. 
+- ⚡ Fun fact: [I love reading](https://www.goodreads.com/user/show/42439345-jessica-mulcrone), especially non-fiction and thrillers 
